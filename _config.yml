@@ -14,7 +14,7 @@ baseurl: '/resume' #change it according to your repository name
 
 #Profile information
 name: Christian Kuntzsch
-tagline: Geoinformatik Visualisierung Datenanalyse
+tagline: Geoinformation &#8231; Visualization &#8231; Data analytics
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
